@@ -1,0 +1,16 @@
+{
+    "name": "ehsansabet/gap-game-third-party-services",
+    "description": "Example for Gap games third-party services",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ehsan Sabet",
+            "email": "ehsan.sabet@hotmail.com"
+        }
+    ],
+    "require": {
+        "gapafzar/gap-sdp-api": "dev-master",
+        "firebase/php-jwt": "^5.2"
+    }
+}
