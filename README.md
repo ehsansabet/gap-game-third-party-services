@@ -5,7 +5,7 @@ Example for Gap games third-party services.
 ```sh
 $ git clone git@github.com:ehsansabet/gap-game-third-party-services.git
 $ cd gap-game-third-party-services/
-$ composer dumpautoload
+$ composer install
 ```
 
 ## Gap Business & Developer Center
